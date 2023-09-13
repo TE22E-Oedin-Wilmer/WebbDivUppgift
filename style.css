@@ -1,0 +1,38 @@
+body{
+background-size: cover;
+
+}
+
+h1 {
+color: blue;
+border-style: groove;
+border: 2px solid black;
+background-color: yellow;
+
+text-align: center;
+}
+
+h2{
+text-align: center;
+
+}
+div.nein {
+margin: 40px;
+background-color: lightgray;
+width: 92%;
+height: 350px;
+padding: 5px;
+border: 2px solid black;
+
+}
+
+        
+div.Hej   {
+    margin: 50px;
+    width: 92%;
+    height: 300px;
+    padding: 5px;
+    background-image: url("logo_html_css_js.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
